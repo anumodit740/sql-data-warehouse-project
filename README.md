@@ -22,7 +22,7 @@
 
 ## 🎯 Overview
 
-This project demonstrates a **production-grade data warehouse** using the **Home Credit Default Risk** dataset from Kaggle. It simulates a real-world Data Engineering and Analytics workflow, implementing industry best practices including the **Medallion Architecture pattern** (Bronze → Silver → Gold).
+This project demonstrates a **production-grade data warehouse** using the **Home Credit Default Risk** dataset from Kaggle. It simulates a real-world Data Engineering and Analytics workflow, implementing enterprise-level best practices.
 
 ### What This Project Covers:
 ✅ Raw data ingestion from multiple CSV sources  
@@ -343,9 +343,18 @@ This project enabled me to master:
 
 The following enhancements are planned to make this a production-grade system:
 
+### Immediate Improvements
+- [ ] **Incremental Loading** - Replace truncate-load with delta processing
+- [ ] **SCD Implementation** - Type 2 slowly changing dimensions
+- [ ] **SQL Agent Scheduling** - Automated daily/weekly ETL runs
+- [ ] **Data Lineage Tracking** - Full audit trail of transformations
+
 ### Advanced Features
 - [ ] **Advanced Power BI Dashboards** - Interactive executive dashboards
-- [ ] **Data Governance** - Cataloging and metadata managemen
+- [ ] **ML-based Risk Prediction** - Predictive default models
+- [ ] **Data Orchestration** - Airflow/Fabric/Databricks integration
+- [ ] **API Layer** - REST endpoints for analytics queries
+- [ ] **Data Governance** - Cataloging and metadata management
 - [ ] **Performance Monitoring** - Query execution analytics
 
 ---
@@ -355,16 +364,23 @@ The following enhancements are planned to make this a production-grade system:
 **Anumodit Shukla**
 
 📚 **Education:**  
-B.Tech  National Institute of Technology (NIT) Agartala
+B.Tech in Biotechnology & Biochemical Engineering  
+National Institute of Technology (NIT) Agartala
 
 💼 **Professional Interests:**
 - 📊 Data Analytics & Business Intelligence
 - 🔧 Data Engineering & ETL Development
+- 🤖 Machine Learning & Predictive Modeling
 - 🏗️ Data Architecture & Warehouse Design
 
 🔗 **Connect with me:**
-- GitHub: [anumodit740](https://github.com/anumodit740)
-- LinkedIn: [Anumodit Shukla]([(https://www.linkedin.com/in/anumodit-shukla-59aa18288])
+
+<a href="https://github.com/anumodit740" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/anumodit-shukla-59aa18288" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ---
 
