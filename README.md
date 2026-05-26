@@ -343,18 +343,9 @@ This project enabled me to master:
 
 The following enhancements are planned to make this a production-grade system:
 
-### Immediate Improvements
-- [ ] **Incremental Loading** - Replace truncate-load with delta processing
-- [ ] **SCD Implementation** - Type 2 slowly changing dimensions
-- [ ] **SQL Agent Scheduling** - Automated daily/weekly ETL runs
-- [ ] **Data Lineage Tracking** - Full audit trail of transformations
-
 ### Advanced Features
 - [ ] **Advanced Power BI Dashboards** - Interactive executive dashboards
-- [ ] **ML-based Risk Prediction** - Predictive default models
-- [ ] **Data Orchestration** - Airflow/Fabric/Databricks integration
-- [ ] **API Layer** - REST endpoints for analytics queries
-- [ ] **Data Governance** - Cataloging and metadata management
+- [ ] **Data Governance** - Cataloging and metadata managemen
 - [ ] **Performance Monitoring** - Query execution analytics
 
 ---
@@ -364,13 +355,11 @@ The following enhancements are planned to make this a production-grade system:
 **Anumodit Shukla**
 
 📚 **Education:**  
-B.Tech in Biotechnology & Biochemical Engineering  
-National Institute of Technology (NIT) Agartala
+B.Tech  National Institute of Technology (NIT) Agartala
 
 💼 **Professional Interests:**
 - 📊 Data Analytics & Business Intelligence
 - 🔧 Data Engineering & ETL Development
-- 🤖 Machine Learning & Predictive Modeling
 - 🏗️ Data Architecture & Warehouse Design
 
 🔗 **Connect with me:**
