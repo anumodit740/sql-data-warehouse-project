@@ -228,15 +228,3 @@ Planned improvements:
 
 ---
 
-# Author
-
-Anumodit Shukla
-
-B.Tech Biotechnology & Biochemical Engineering  
-NIT Agartala
-
-Interested in:
-- Data Analytics
-- Data Engineering
-- Business Intelligence
-- Machine Learning
