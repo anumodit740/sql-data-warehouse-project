@@ -364,7 +364,7 @@ B.Tech  National Institute of Technology (NIT) Agartala
 
 🔗 **Connect with me:**
 - GitHub: [anumodit740](https://github.com/anumodit740)
-- LinkedIn: [Anumodit Shukla](https://linkedin.com/in/anumodit)
+- LinkedIn: [Anumodit Shukla]([https://linkedin.com/in/anumodit](https://www.linkedin.com/in/anumodit-shukla-59aa18288))
 
 ---
 
