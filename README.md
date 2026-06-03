@@ -386,8 +386,5 @@ National Institute of Technology (NIT) Agartala
 
 <div align="center">
 
-### ⭐ If this project helped you, please consider giving it a star!
-
-**Happy Data Engineering! 🎉**
 
 </div>
